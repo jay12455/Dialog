@@ -1,2 +1,2 @@
-# Dialog練習
+# Dialog
 結合shellscript與Dialog安裝apache2
